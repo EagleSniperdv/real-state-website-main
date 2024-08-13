@@ -90,8 +90,7 @@ Message Now
 Get Started with Holux
 
 .subscribe__description
-Subscribe and find super attractive price
-quotes from us, Find your residence soon
+
 
 .subscribe__button
 Get Started
